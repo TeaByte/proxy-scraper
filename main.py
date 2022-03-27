@@ -9,7 +9,6 @@ print('''
     ╩  ┴└─└─┘┴ └─ ┴   └─┘└─┘┴└─┴ ┴┴  ┴  └─┘┴└─
                                         [ V2 ]
         - Coder: @Tufaah
-        - Channel: t.me/Avira
             
 ''')
 
