@@ -2,8 +2,8 @@
 Simple and powerful Proxy scraper
 
 ## Features
+- Saving proxies on txt file ( proxies.txt )
 - Scraping from ( x75 websites ) 
-- Saving proxies on txt file
 - Very fast ( using threading )
 
 ## Help
