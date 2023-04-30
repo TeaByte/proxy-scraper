@@ -2,11 +2,9 @@
 Simple and powerful Proxy scraper
 
 ## Features
-- Saving proxies on txt file ( proxies.txt )
-- Scraping from ( x75 websites ) 
-- Very fast ( using threading )
-
-## Help
+- Regex pattern that scrap proxies from any site!
+- Scraping from x75 websites ( You can add more ) 
+- Very scraping ( Asynchronous )
 
 install requirements
 ```
