@@ -6,7 +6,7 @@ Simple and powerful Proxy scraper
 - Scraping from x75 websites ( You can add more ) 
 - Very scraping ( Asynchronous )
 
-install requirements
+### install requirements
 ```
 pip install -r requirements.txt
 ```
