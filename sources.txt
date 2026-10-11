@@ -73,3 +73,4 @@ https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000
 https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all
+https://rcloak.com/api/proxies/raw?protocol=all
